@@ -1,6 +1,6 @@
 {
   "name": "news-cs",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Emre Tosun",
   "scripts": {
     "dev:next": "next dev",
