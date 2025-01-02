@@ -34,7 +34,6 @@ export function generateStaticParams() {
   return routing.locales.map(locale => ({ locale }));
 }
 
-
 export default async function RootLayout(props: {
   children: React.ReactNode;
   params: Promise<{ locale: string }>;
@@ -51,7 +50,7 @@ export default async function RootLayout(props: {
   const messages = await getMessages();
 
   return (
-    <html lang={locale} dir={locale === "ae" ? "rtl" : "ltr"}>
+    <html lang={locale} dir={locale === 'ae' ? 'rtl' : 'ltr'}>
       <body>
         <NextIntlClientProvider
           locale={locale}

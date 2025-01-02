@@ -10,7 +10,7 @@ export default defineConfig({
     include: ['src/**/*.test.{js,jsx,ts,tsx}'],
     coverage: {
       include: ['src/**/*'],
-      exclude: [ '**/*.d.ts'],
+      exclude: ['**/*.d.ts'],
     },
     environmentMatchGlobs: [
       ['**/*.test.tsx', 'jsdom'],
