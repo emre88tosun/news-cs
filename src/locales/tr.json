@@ -1,0 +1,12 @@
+{
+  "meta_title": "News App",
+  "meta_description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae saepe corporis mollitia officiis, placeat consequuntur, numquam illo deserunt est quia dolorum adipisci exercitationem fuga esse aliquam id distinctio dolores! Iste.",
+  "listing_error": "Haberler yüklenirken bir sorun oluştu. Lütfen yeniden deneyiniz.",
+  "detail_error": "Haber bilgisi yuklenirken bir sorun olştu. Lütfen yeniden deneyiniz.",
+  "read_more": "Daha fazla",
+  "previous": "Geri",
+  "next": "ileri",
+  "go_home": "Ana sayfaya git",
+  "like": "Beğen",
+  "share": "Paylaş"
+}

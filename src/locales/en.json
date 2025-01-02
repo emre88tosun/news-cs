@@ -1,0 +1,12 @@
+{
+  "meta_title": "News App",
+  "meta_description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae saepe corporis mollitia officiis, placeat consequuntur, numquam illo deserunt est quia dolorum adipisci exercitationem fuga esse aliquam id distinctio dolores! Iste.",
+  "listing_error": "An error occurred while listing the news. Please try again.",
+  "detail_error": "An error occurred while fetching the news. Please try again.",
+  "read_more": "Read more",
+  "previous": "Previous",
+  "next": "Next",
+  "go_home": "Go home",
+  "like": "Like",
+  "share": "Share"
+}

@@ -1,0 +1,12 @@
+{
+  "meta_title": "تطبيق الأخبار",
+  "meta_description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae saepe corporis mollitia officiis, placeat consequuntur, numquam illo deserunt est quia dolorum adipisci exercitationem fuga esse aliquam id distinctio dolores! Iste.",
+  "listing_error": "حدث خطأ أثناء عرض الأخبار. يرجى المحاولة مرة أخرى.",
+  "detail_error": "حدث خطأ أثناء جلب الأخبار. يرجى المحاولة مرة أخرى.",
+  "read_more": "اقرأ المزيد",
+  "previous": "السابق",
+  "next": "التالي",
+  "go_home": "العودة إلى الصفحة الرئيسية",
+  "like": "إعجاب",
+  "share": "مشاركة"
+}
